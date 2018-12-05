@@ -1,0 +1,15 @@
+[package]
+name = "libical-sys"
+version = "0.1.0"
+authors = ["Vincent Breitmoser <look@my.amazin.horse>"]
+description = "Low-level Rust bindings for the libical iCalendar library"
+repository = "https://github.com/Valodim/libical-sys"
+keywords = ["ical","icalendar", "ics", "libical"]
+categories = ["external-ffi-bindings"]
+license = "LGPL-3.0"
+readme = "README.md"
+
+
+[build-dependencies]
+bindgen = "0.43"
+pkg-config = "0.3"
