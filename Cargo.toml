@@ -1,6 +1,6 @@
 [package]
 name = "libical-sys"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Vincent Breitmoser <look@my.amazin.horse>"]
 description = "Low-level Rust bindings for the libical iCalendar library"
 repository = "https://github.com/Valodim/libical-sys"
